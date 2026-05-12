@@ -1,2 +1,7 @@
-# demo-estudio-juridico-cdd-asoc
-Demo web para Estudio Jurídico CDD &amp; Asoc. — diseñada por eterlab.
+# Estudio Jurídico CDD & Asoc.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
